@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WinLocker\WinLocker\bin\Debug\WinLocker.exe.config
+C:\Users\user\source\repos\WinLocker\WinLocker\bin\Debug\WinLocker.exe
+C:\Users\user\source\repos\WinLocker\WinLocker\bin\Debug\WinLocker.pdb
+C:\Users\user\source\repos\WinLocker\WinLocker\obj\Debug\WinLocker.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WinLocker\WinLocker\obj\Debug\WinLocker.FrmLock.resources
+C:\Users\user\source\repos\WinLocker\WinLocker\obj\Debug\WinLocker.Properties.Resources.resources
+C:\Users\user\source\repos\WinLocker\WinLocker\obj\Debug\WinLocker.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinLocker\WinLocker\obj\Debug\WinLocker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinLocker\WinLocker\obj\Debug\WinLocker.exe
+C:\Users\user\source\repos\WinLocker\WinLocker\obj\Debug\WinLocker.pdb
